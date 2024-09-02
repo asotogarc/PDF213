@@ -1,3 +1,4 @@
 pypdf
 openpyxl
 openai
+plotly
